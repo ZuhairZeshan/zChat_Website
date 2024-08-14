@@ -1,0 +1,12 @@
+->we are using web sockets.
+They built connection between client and server.
+
+->Socket.io
+
+->create nodeServer folder.
+->create client.js
+
+->run on terminal npm init.
+->npm i socket.io
+-> npm i nodemon (if nodemon not available)
+

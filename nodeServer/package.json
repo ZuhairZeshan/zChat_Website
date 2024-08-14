@@ -1,0 +1,20 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is an Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "Zuhair",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "node": "^22.6.0",
+    "nodejs": "^0.0.0",
+    "socket.io": "^4.7.5"
+  }
+}
